@@ -1,1 +1,3 @@
-<h1>Hello, my portfolio</h1>
+document.getElementById("btn").addEventListener("click", function () {
+  alert("JavaScript is working!");
+});
